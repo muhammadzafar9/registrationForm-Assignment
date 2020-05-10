@@ -1,0 +1,61 @@
+
+.image_center
+{
+    margin: auto; 
+    text-align: center;
+}
+#reg_form{
+         text-align: center;
+         color:blue;
+         opacity: 0.8;
+         font-size:bold; 
+         text-decoration: underline;
+        }
+        .form-Btns
+        {
+        text-align: center;
+        }
+        .mainSection
+        {
+            background-color:   rebeccapurple;
+            opacity: 0.8;
+            color: white;
+        }
+
+    /* submited page css  */
+
+    .center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;   
+    }
+
+    .main{
+        color: green; 
+        text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+     
+    }
+
+    .submited{
+        text-align: center;
+        margin-left: 30%;
+        
+        position: absolute;
+        color: indigo;
+        font-size: 25px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+        
+        
+    }
+
+    .back{ 
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        
+        font-size: 30px;
+    }
+    
+
+    
